@@ -1,0 +1,6 @@
+@NAQLTHON2_HostAddress = http://localhost:5223
+
+GET {{NAQLTHON2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

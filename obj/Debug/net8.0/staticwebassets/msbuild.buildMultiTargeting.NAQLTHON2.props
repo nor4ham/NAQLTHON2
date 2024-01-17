@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/NAQLTHON2.props" />
+</Project>
